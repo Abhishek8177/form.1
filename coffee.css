@@ -1,0 +1,131 @@
+.page{
+    background-color: yellow;
+    height: 700px;
+    width: 100%;
+  
+    
+}
+
+
+.head{
+
+    background-color: #08768D;
+    height: 100px;
+    width: 100%;
+    float: left;
+    text-align: center;
+    color: white;
+    text-transform: capitalize;
+    font-size: 25px;
+    text-shadow: 3px 3px black;
+    position: relative;
+
+    
+
+    
+}
+h1{
+     position: relative;
+     top: -10px;
+}
+
+.side{
+
+    background-image: url(images/coffee.jpeg);
+    background-size: 100% 600px ;
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 36%;
+    float: left;
+}
+
+h2{
+
+    font-size:35px;
+    text-transform: capitalize;
+    position: relative;
+    top: 13px;
+    margin: 35px;
+}
+
+p{
+
+    margin: 35px;
+    font-size: 20px;
+}
+
+
+
+.text{
+    height: 200px;
+    width: 64%;
+    background-color:lightgray;
+    float: left;
+    
+    
+}
+
+p~p{
+
+    position: relative;
+    top: -20px;
+}
+.form1{
+
+    background-color:lightgray;
+    height: 400px;
+    width: 32%;
+    float: left;
+    font-size: 18px;
+
+}
+
+.form2{
+
+    background-color:lightgray;
+    height: 400px;
+    width: 32%;
+    float: left;
+}
+
+label{
+
+    position: relative;
+    margin-top: 50px;
+}
+
+.form1 label{
+
+    position: relative;
+    top: 80px;
+    left: 35px;
+    font-weight: bold;
+}
+
+.form2 label{
+
+    position: relative;
+    top: 80px;
+    left: 35px;
+    font-size: 18px;
+    font-weight: bold;
+    text-transform:capitalize;
+}
+
+input{
+    font-size:25px;
+}
+
+button{
+
+    position: relative;
+    top: 110px;
+    left: 40px;
+    font-size: 16px;
+    background-color: #08768D;
+    border-radius: 5px ;
+    color: white;
+    text-transform: uppercase;
+    box-shadow: 1px 1px black;
+}
+
